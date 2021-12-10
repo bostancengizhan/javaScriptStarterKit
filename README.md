@@ -1,2 +1,2 @@
 # advancedJavaScript
-Starter kit for my JS Courses
+Hızlı başlangıç yapalım Engin hocayla
