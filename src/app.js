@@ -24,3 +24,5 @@ for(let i = 0;i<konutKredileri.length;i++){
     console.log("<li>"+konutKredileri[i]+"</li>")//konutKredilerinin [i] ninci elemanını getir
 }
 console.log("</ul>")
+
+//liste şekilnde yazdırdık.
